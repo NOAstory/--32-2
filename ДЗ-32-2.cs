@@ -161,3 +161,4 @@ class Program
         map[playerPositionY, playerPositionX] = playerSymbol;
     }
 }
+
